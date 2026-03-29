@@ -20,7 +20,7 @@ spec:
         app: guestbook
     spec:
       containers:
-        - image: localhost:5001/guestbook:v2
+        - image: us.icr.io/<your sn labs namespace>/guestbook:v1
           imagePullPolicy: Always
           name: guestbook
           ports:
@@ -28,6 +28,6 @@ spec:
               name: http
           resources:
             limits:
-              cpu: 5m
+              cpu: 50m
             requests:
-              cpu: 2m
+              cpu: 20m

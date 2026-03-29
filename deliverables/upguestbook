@@ -1,0 +1,58 @@
+The push refers to repository [localhost:5001/guestbook]
+bfc26d3f02a6: Waiting
+4f4fb700ef54: Waiting
+7c457f213c76: Waiting
+541fd7affd09: Waiting
+b5e65af529df: Waiting
+69a9f9ea60b4: Waiting
+2f9d0c5ebb0a: Waiting
+19c1e3a048ae: Waiting
+2f9d0c5ebb0a: Waiting
+19c1e3a048ae: Waiting
+bfc26d3f02a6: Waiting
+4f4fb700ef54: Waiting
+7c457f213c76: Waiting
+541fd7affd09: Waiting
+b5e65af529df: Waiting
+69a9f9ea60b4: Waiting
+69a9f9ea60b4: Waiting
+2f9d0c5ebb0a: Waiting
+19c1e3a048ae: Waiting
+bfc26d3f02a6: Waiting
+4f4fb700ef54: Waiting
+7c457f213c76: Waiting
+541fd7affd09: Waiting
+b5e65af529df: Waiting
+2f9d0c5ebb0a: Waiting
+19c1e3a048ae: Waiting
+bfc26d3f02a6: Waiting
+4f4fb700ef54: Waiting
+7c457f213c76: Waiting
+541fd7affd09: Waiting
+b5e65af529df: Waiting
+69a9f9ea60b4: Waiting
+4f4fb700ef54: Waiting
+7c457f213c76: Waiting
+541fd7affd09: Waiting
+b5e65af529df: Waiting
+69a9f9ea60b4: Waiting
+2f9d0c5ebb0a: Waiting
+19c1e3a048ae: Waiting
+bfc26d3f02a6: Waiting
+19c1e3a048ae: Waiting
+bfc26d3f02a6: Waiting
+4f4fb700ef54: Waiting
+7c457f213c76: Waiting
+541fd7affd09: Waiting
+b5e65af529df: Waiting
+69a9f9ea60b4: Waiting
+2f9d0c5ebb0a: Waiting
+4f4fb700ef54: Layer already exists
+7c457f213c76: Layer already exists
+541fd7affd09: Layer already exists
+b5e65af529df: Layer already exists
+69a9f9ea60b4: Layer already exists
+2f9d0c5ebb0a: Layer already exists
+19c1e3a048ae: Layer already exists
+bfc26d3f02a6: Already exists
+v2: digest: sha256:01a030210282b502c1c783f959c0d640c505e928f496493728efdbf9f2be200d size: 856

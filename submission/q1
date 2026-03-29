@@ -20,3 +20,4 @@ WORKDIR /app
 
 CMD ["./guestbook"]
 EXPOSE 3000
+

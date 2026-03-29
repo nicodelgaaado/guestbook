@@ -20,7 +20,7 @@ spec:
         app: guestbook
     spec:
       containers:
-        - image: localhost:5001/guestbook:v2
+        - image: us.icr.io/<your sn labs namespace>/guestbook:v2
           imagePullPolicy: Always
           name: guestbook
           ports:
